@@ -22,3 +22,11 @@ npm install
 npm run dev
 ```
 Yukaridaki komutlar ile uygulamayı localde çalıştırabilirsiniz.
+
+### Eksiklikler
+
+- Bos veya yanlis karakter hatasi
+- Uzun response suresi
+- Loading ekraninda data gosterimi
+- Type safety olmamasi
+- Ve belki daha fazlasi :)
